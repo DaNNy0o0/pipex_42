@@ -24,7 +24,7 @@ Pipex es un programa que imita la funcionalidad de las tuberías del shell. Toma
 1. Clona el repositorio:
 
    ```
-   git clone https://github.com/tu-usuario/pipex.git
+   git clone https://github.com/DaNNy0o0/pipex.git
    ```
   
 3. Navega al directorio del proyecto:
