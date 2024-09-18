@@ -7,7 +7,6 @@ Este proyecto es parte del plan de estudios de la escuela 42. Su objetivo es pro
 - [Características](#características)
 - [Instalación](#instalación)
 - [Uso](#uso)
-- [Ejemplos](#ejemplos)
 
 ## Descripción
 
