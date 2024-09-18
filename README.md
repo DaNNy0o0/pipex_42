@@ -47,4 +47,4 @@ Ejecuta el programa con la siguiente sintaxis:
 ./pipex archivo1 comando1 comando2 archivo2
 ```
 
-Dispones de un archivo en el repositorio can varios comandos para probar.
+Dispones de un archivo en el repositorio con varios comandos para probar.
