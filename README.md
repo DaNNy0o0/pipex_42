@@ -29,9 +29,9 @@ Pipex es un programa que imita la funcionalidad de las tuberías del shell. Toma
   
 3. Navega al directorio del proyecto:
 
-  ```
-  cd pipex
-  ```
+   ```
+   cd pipex
+   ```
 
 4. Compila el proyecto:
 
